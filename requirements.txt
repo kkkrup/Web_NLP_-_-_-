@@ -1,0 +1,11 @@
+# Версии фиксируются со знаком == .
+# Получить текущий список: pip freeze > requirements.txt
+
+# Серверная часть
+# fastapi==
+# uvicorn==
+
+# Обработка и модель
+# pandas==
+# scikit-learn==
+# transformers==
